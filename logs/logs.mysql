@@ -1,0 +1,2 @@
+2013-04-29 12:45:08 QUERY: file: Z:\home\localhost\www\newStruct\modules\testing2\main.phpline :15SELECT * FROM `refrigerator` ORDER BYi `id` DESCYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BYi `id` DESC' at line 1END________________
+
